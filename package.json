@@ -34,6 +34,9 @@
     "last 10 iOS versions",
     "last 5 Opera versions"
   ],
+  "resolutions": {
+    "vue": "3.2.4"
+  },
   "engines": {
     "node": ">= 12.22.1",
     "npm": ">= 6.13.4",
